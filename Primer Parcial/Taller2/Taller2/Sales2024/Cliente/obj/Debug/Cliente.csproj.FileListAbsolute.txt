@@ -1,0 +1,10 @@
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\bin\Debug\ClientTest.exe.config
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\bin\Debug\ClientTest.exe
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\bin\Debug\ClientTest.pdb
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\bin\Debug\Entities.dll
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\bin\Debug\Entities.pdb
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\obj\Debug\Cliente.csproj.Up2Date
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\obj\Debug\ClientTest.exe
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\Cliente\obj\Debug\ClientTest.pdb

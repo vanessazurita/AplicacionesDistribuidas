@@ -1,0 +1,7 @@
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\ServiceSoap\obj\Debug\net6.0\ServiceSoap.csproj.AssemblyReference.cache
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\ServiceSoap\obj\Debug\net6.0\ServiceSoap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\ServiceSoap\obj\Debug\net6.0\ServiceSoap.AssemblyInfoInputs.cache
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\ServiceSoap\obj\Debug\net6.0\ServiceSoap.AssemblyInfo.cs
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\ServiceSoap\obj\Debug\net6.0\ServiceSoap.csproj.CoreCompileInputs.cache
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\ServiceSoap\obj\Debug\net6.0\ServiceSoap.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aange\Downloads\Taller2\Taller2\Sales2024\ServiceSoap\obj\Debug\net6.0\ServiceSoap.MvcApplicationPartsAssemblyInfo.cache
