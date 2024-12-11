@@ -1,0 +1,6 @@
+C:\Users\aange\Documents\GitHub\AplicacionesDistribuidas\Primer Parcial\SOAP\SoapCalculator\.NET\obj\Debug\net6.0\SoapCalculator.csproj.AssemblyReference.cache
+C:\Users\aange\Documents\GitHub\AplicacionesDistribuidas\Primer Parcial\SOAP\SoapCalculator\.NET\obj\Debug\net6.0\SoapCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aange\Documents\GitHub\AplicacionesDistribuidas\Primer Parcial\SOAP\SoapCalculator\.NET\obj\Debug\net6.0\SoapCalculator.AssemblyInfoInputs.cache
+C:\Users\aange\Documents\GitHub\AplicacionesDistribuidas\Primer Parcial\SOAP\SoapCalculator\.NET\obj\Debug\net6.0\SoapCalculator.AssemblyInfo.cs
+C:\Users\aange\Documents\GitHub\AplicacionesDistribuidas\Primer Parcial\SOAP\SoapCalculator\.NET\obj\Debug\net6.0\SoapCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aange\Documents\GitHub\AplicacionesDistribuidas\Primer Parcial\SOAP\SoapCalculator\.NET\obj\Debug\net6.0\SoapCalculator.sourcelink.json
