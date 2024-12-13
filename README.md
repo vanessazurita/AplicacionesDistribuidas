@@ -1,2 +1,0 @@
-# AplicacionesDistribuidas
-2553
