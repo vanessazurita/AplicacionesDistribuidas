@@ -11,9 +11,17 @@ namespace Entities
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.Xml.Serialization;
+    [Serializable]
+    [XmlRoot("Personas")]
     public partial class Persona
     {
+        public Persona()
+        {
+            this.Rol = new HashSet<Rol>();
+        }
+        [XmlElement("id")]
+
         public int id { get; set; }
         public string nombre { get; set; }
         public string apellido { get; set; }
@@ -26,7 +34,8 @@ namespace Entities
         public string email { get; set; }
         public string contrasena { get; set; }
         public int id_rol { get; set; }
-    
-        public virtual Rol Rol { get; set; }
+
+        public virtual ICollection<Rol> Rol { get; set; }
+
     }
 }

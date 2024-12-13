@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace SLC
 {
+
     public interface ICategoriesService
     {
         Categories Create(Categories category);

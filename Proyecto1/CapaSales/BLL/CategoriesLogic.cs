@@ -76,5 +76,10 @@ namespace BLL
             }
             return result;
         }
+
+        public object RetrieveCategories()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

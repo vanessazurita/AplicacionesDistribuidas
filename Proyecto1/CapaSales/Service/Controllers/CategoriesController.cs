@@ -32,9 +32,28 @@ namespace Service.Controllers
         public Categories RetrieveByID(int id)
         {
             var categoryLogic = new CategoriesLogic();
-            var category = categoryLogic.RetrieveByID(id);
-            return category;
+
+            try
+            {
+                var category = categoryLogic.RetrieveByID(id);
+
+                if (category == null)
+                {
+                    throw new KeyNotFoundException("Categoría no encontrada");
+                }
+
+                return category;
+            }
+            catch (Exception ex)
+            {
+                // Agrega un log para ayudar a depurar cualquier error.
+                // Log.LogError(ex, "Error al recuperar la categoría con id " + id);
+                throw new Exception("Hubo un error al procesar la solicitud: " + ex.Message);
+            }
         }
+
+
+
 
         [HttpPut]
         public bool Update(Categories categoryToUpdate)

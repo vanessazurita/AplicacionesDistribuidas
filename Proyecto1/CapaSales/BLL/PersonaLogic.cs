@@ -76,5 +76,15 @@ namespace BLL
             }
             return result;
         }
+
+        public Persona Login(string email, string contrasena)
+        {
+            Persona result = null;
+            using (var r = RepositoryFactory.CreateRepository())
+            {
+                result = r.Retrieve<Persona>(p => p.email == email && p.contrasena == contrasena);
+            }
+            return result;  // Si la persona existe con esas credenciales, devolverla.
+        }
     }
 }

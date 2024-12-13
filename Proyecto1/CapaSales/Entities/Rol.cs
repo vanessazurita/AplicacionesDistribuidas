@@ -11,7 +11,9 @@ namespace Entities
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.Xml.Serialization;
+    [Serializable]
+    [XmlRoot("Rols")]
     public partial class Rol
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -19,7 +21,8 @@ namespace Entities
         {
             this.Persona = new HashSet<Persona>();
         }
-    
+        [XmlElement("id")]
+
         public int id { get; set; }
         public string nombre { get; set; }
         public string descripcion { get; set; }
